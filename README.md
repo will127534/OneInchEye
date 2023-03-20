@@ -18,3 +18,8 @@ For questions, issues, or suggestions, please open an issue in the [GitHub repos
 
 ## License
 This project is released under the MIT License.
+![](https://i.imgur.com/5n1qKnF.png)
+![](https://i.imgur.com/auB4iKB.png)
+
+
+Thanks to ChatGPT helping me generating the Readme.

@@ -19,6 +19,7 @@ Also see [Quick Start Guide] (https://github.com/will127534/OneInchEye/wiki/OneI
 
 
 ## MISC stuff  
+1. Blog post(?) [here] (https://will127534.github.io/OneInchEye/) 
 1. I know the decoupling capacitors in sch are a mess.....  
 2. TMP117 temperature sensor is hook up at the 1.8V LDO for cleaner power, but that LDO is controlled by CAM_GPIO (or think as a enable pin for the camera module), so it will function only when the camera is active.  
 3. There is no clock sync function for the CMOS sensor, so the XVS and XHS are output only.  

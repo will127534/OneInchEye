@@ -15,7 +15,7 @@ OneInchEye captures stunning high-resolution images and videos with improved low
 
 ## Support
 For questions, issues, or suggestions, please open an issue in the [GitHub repository](https://github.com/will127534/OneInchEye/issues)  
-Also see [Quick Start Guide] (https://github.com/will127534/OneInchEye/wiki/OneInchEye-Quick-Start-Guide)
+Also see [Quick Start Guide](https://github.com/will127534/OneInchEye/wiki/OneInchEye-Quick-Start-Guide)
 
 
 ## MISC stuff  

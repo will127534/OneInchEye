@@ -25,6 +25,7 @@ Also see [Quick Start Guide](https://github.com/will127534/OneInchEye/wiki/OneIn
 3. There is no clock sync function for the CMOS sensor, so the XVS and XHS are output only.  
 4. QWIIC is mainly for hooking up to other I2C devices so you don't have to connect yet another cable if you add additional I2C sensor to the board. But it also serves as I2C debug port to hook up external logic analyzer.  
 5. This board is actually quite easy to assemble, if you want to build board yourself, you can use JLCPCB to do the PCBA on component side and do the CMOS side with low temperature soldering paste yourself if you can source the CMOS sensor. The JLCPCB BOM and Position list is also provided.
+6. Limited quantity on Tindle: https://www.tindie.com/products/will123321/oneincheye/
 
 ## License
 This project is released under the MIT License.

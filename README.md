@@ -1,5 +1,9 @@
 # OneInchEye: OpenSource IMX283 Camera Board for Raspberry Pi
 ![](https://imgur.com/olbFNfe.jpg)
+
+### Update on 2024/03/24
+This project is also compatiable with RPI5, the quickstart guide has been updated.
+
 ## Introduction
 Welcome to the **OneInchEye** project, an open-source camera board designed for Raspberry Pi Compute Module 4 boards using the IMX283 one-inch sensor. This project aims to provide a high-quality, affordable, and accessible camera module for advanced Raspberry Pi projects. The board is designed using KiCad v6, a popular open-source electronics design automation (EDA) software.
 

@@ -4,8 +4,6 @@
 ### Update on 2024/03/24
 This project is also compatiable with RPI5, the quickstart guide has been updated.  
 
-Currently an known issue is that the camera mode transition from 2K -> 5K(mode 0) will causes camera not sending the correct frame, the workaround is to use `--viewfinder-mode 5568:3664:12:P --mode 5568:3664:12:P` to ask the rpicam-jpeg to use the full res mode for AWB and AutoExposure.  
-
 ## Introduction
 Welcome to the **OneInchEye** project, an open-source camera board designed for Raspberry Pi Compute Module 4 boards using the IMX283 one-inch sensor. This project aims to provide a high-quality, affordable, and accessible camera module for advanced Raspberry Pi projects. The board is designed using KiCad v6, a popular open-source electronics design automation (EDA) software.
 

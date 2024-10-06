@@ -1,7 +1,6 @@
 # OneInchEye: OpenSource IMX283 Camera Board for Raspberry Pi
 ![](https://imgur.com/olbFNfe.jpg)
-![_DSC6804](https://github.com/user-attachments/assets/8c665ba9-c64a-4691-8b59-8970962bd8ba)
-
+![](https://imgur.com/RlCwAG7.jpg)
 ### Update on 2024/03/24
 This project is also compatiable with RPI5, the quickstart guide has been updated.  
 

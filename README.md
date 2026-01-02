@@ -36,8 +36,8 @@ Also see [Quick Start Guide](https://github.com/will127534/OneInchEye/wiki/OneIn
 
 ## License
 This project is released under the MIT License.
-![image](https://github.com/user-attachments/assets/eb7d670e-0e2b-4c22-848b-dc066a8478e1)
-![image](https://github.com/user-attachments/assets/2bb7277c-e199-4745-903b-4b59867be60d)
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/dd05c584-fc1a-4fa3-bc82-825419491514" />
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/83b23bb7-78ab-48af-b287-addae4f33a73" />
 
 
 Thanks to ChatGPT helping me generating most of the Readme, see if you can spot which section I typed.
